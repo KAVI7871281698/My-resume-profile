@@ -1,0 +1,30 @@
+.container2{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.sumpic{
+    width: 580px;
+    height: 700px;
+    /* box-sizing: border-box;
+    border-color: blue;
+    border-radius: 100px; */
+}
+p{
+    font-size: 32px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 40px;
+    font-family: "Trirong", serif;
+}
+.sumhd{
+    font-size: 55px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+    color: orangered;
+    font-family: "Sofia", sans-serif;
+    font-style: inherit;
+     /* font-family: "Audiowide", sans-serif; */
+}

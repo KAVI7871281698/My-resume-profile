@@ -1,0 +1,113 @@
+.container1{
+    padding-bottom: 30px;
+}
+
+.res1{
+    display: flex;
+    justify-content: space-around;
+    font-size: x-large;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.res2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+.anger1{
+    color: black;
+    text-decoration: none;
+    letter-spacing: 0.5px;
+    position: relative;
+    transition: 0,5s;
+}
+.anger1::after{
+    content: "";
+    position: absolute;
+    width: 0%;
+    height: 5px;
+    /* background-color:black; */
+    left: 0;
+    /* bottom: 0; */
+    top: 0;
+    transition: 0.6s linear;
+}
+.anger1:hover{
+    color:white;
+    background-color:orangered;
+    background-size: cover;
+    transition: 0.5s linear;
+    border-radius: 30px;
+    font-size: xx-large;
+}
+.anger1:hover:after{
+    width: 100%;
+}
+.anger2{
+    color: rgba(12, 0, 249, 0.893);
+    text-decoration: none;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: 40px;
+}
+.res3{
+   margin-bottom: 20px;
+   margin-left: 20px;
+   margin-right: 20px;
+}
+.reshd{
+    margin-bottom: 20px;
+    font-size: 90px;
+    font-style: initial;
+    font-family: inherit, Helvetica, sans-serif;
+    /* margin-left: 20px;
+    margin-right: 20px; */
+    /* font-family: "Sofia", sans-serif; */
+}
+h1:hover,h2:hover{
+    color:white;
+    background-color:orangered;
+    background-size: cover;
+    transition: 0.5s linear;
+    border-radius: 10px;
+    /* font-size: xx-large; */
+    color: white;
+}
+.reshd2{
+    margin-bottom: 30px;
+    font-size: 35px;
+    color: rgb(223, 30, 30);
+    /* margin-left: 20px;
+    margin-right: 20px; */
+}
+.lkimg{
+    width: 70px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.gitimg{
+    width: 70px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.reshd3{
+    font-size: 40px;
+    margin-left: 15px;
+    margin-right: 20px;
+}
+.mypicimg{
+    width: 400px;
+    height: 530px;
+    border-radius: 20px;
+    /* background-color: rgba(0, 0, 255, 0.254); */
+    padding-right: 30px;
+    padding-top: 13px;
+    padding-bottom: 50px;
+}
+.container1{
+    /* font-family: "Sofia", sans-serif; */
+    font-family: "Trirong", serif;
+    /* font-family: "Audiowide", sans-serif; */
+}

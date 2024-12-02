@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(71, 191, 239, 0.997);
+}
+.conthd{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 70px;
+}
+h2{
+    font-size: 50px;
+    font-family: "Trirong", serif;
+    color: blue;
+}
+.conthd2{
+    padding-left: 450px;
+}
+.conthd3{
+    padding-left: 350px;
+    padding-bottom: 30px;
+}
+h3{
+    font-size: 40px;
+    padding-top: 20px;
+    font-family: "Trirong", serif;
+    padding-bottom: 20px;
+    /* margin-bottom: 30px; */
+}
+span{
+    color: orangered;
+}
+/* .cont2{
+    background-color: skyblue;
+    background-size: cover;
+} */

@@ -1,0 +1,31 @@
+body{
+    font-family: "Trirong", serif;
+    background-color: rgb(62, 191, 241);
+}
+.eduhd{
+    text-align: center;
+    padding-top: 30px;   
+}
+.hd{
+    font-size: 90px;
+    color: blue;
+}
+.eduhd1{
+    padding-left: 350px;
+    padding-top: 40px;
+    font-size: 40px;
+}
+span{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color: orangered;
+
+}
+.sch1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.sch2{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
